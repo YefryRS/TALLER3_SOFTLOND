@@ -1,4 +1,4 @@
-abstract public class CorreoElectronico implements Notificacion{
+public abstract class CorreoElectronico implements Notificacion{
 
     private String destinatario;
     private String asunto;

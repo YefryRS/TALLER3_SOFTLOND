@@ -1,6 +1,6 @@
 import java.util.Optional;
 
-abstract public class MensajesTexto implements Notificacion{
+public abstract class MensajesTexto implements Notificacion{
 
     private int numeroDdestinatario;
     private String contenido;

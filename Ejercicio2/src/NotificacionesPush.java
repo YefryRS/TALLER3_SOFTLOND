@@ -1,4 +1,4 @@
-abstract public class NotificacionesPush implements Notificacion{
+public abstract class NotificacionesPush implements Notificacion{
 
     private String titulo;
     private String mensaje;
