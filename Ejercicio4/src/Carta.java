@@ -1,4 +1,4 @@
 public interface Carta {
-    public void mostrarCarta();
-    public String getColor();
+    public String mostrarCarta();
+    public int valorNumerico();
 }
